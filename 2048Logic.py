@@ -86,5 +86,3 @@ class Logic2048:
 if __name__ == '__main__':
     game = Logic2048()
     game.play()
-
-
