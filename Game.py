@@ -1,7 +1,7 @@
 import numpy as np
 import random
 import pygame
-from pygame.locals import **
+from pygame.locals import *
 
 from Colors import CP
 
