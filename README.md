@@ -14,4 +14,6 @@
 <img src="img_readme/3.png" width="300" height="300">
 <img src="img_readme/4.png" width="300" height="300">
 <p>Game ends when the user decides to quit or when there are no more possible moves left.</p>
-<img src="img_readme/5.png" width="300" height="300">
+<p>The user can quit the game at any time by pressing the "X" button at the edge of the game-screen.</p>
+<p>After quiting there will be your game history, like:</p>
+<img src="img_readme/5.png" width="150" height="150">
