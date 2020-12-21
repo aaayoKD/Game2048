@@ -20,7 +20,7 @@
 <p>After quiting there will be your game history, like:</p>
 <img src="img_readme/5.png" width="150" height="150">
 <h2>Built With</h2>
-<p><a href="https://www.python.org/">* Python</a></p>
-<p><a href="https://www.pygame.org/news">* PyGame</a></p>
+<p><a href="https://www.python.org/"> • Python</a></p>
+<p><a href="https://www.pygame.org/news"> • PyGame</a></p>
 <h2>Extra Information</h2>
 <p>This game was originally designed and created by <a href="https://apps.apple.com/us/app/2048-by-gabriele-cirulli/id868076805">Gabriele Cirulli</a>.</p>
