@@ -1,5 +1,5 @@
 # Game 2048
-<h2>Authors</h2>
+<h2>Developers</h2>
 <i>Was created by <b>Dastan Kadyrov</b> and <b>Altynbek kyzy Zhainagul</b></i>
 <h6></h6>
 <h2>Instructions fot Game play</h2>
